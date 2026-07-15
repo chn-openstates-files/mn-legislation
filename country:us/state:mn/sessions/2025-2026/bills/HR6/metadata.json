@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hr6"
+    }
+  ],
   "actions": [
     {
       "description": "Resolution introduced, referred to Rules and Legislative Administration",
@@ -41,6 +45,46 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Authors added Lawrence, Van Binsbergen, and Allen",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Backer",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Bennett",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Rarick",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -164,6 +208,54 @@
       "primary": false,
       "person_id": "~{\"name\": \"Murphy\"}",
       "organization_id": null
+    },
+    {
+      "name": "Lawrence",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lawrence\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Van Binsbergen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Van Binsbergen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Backer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Backer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bennett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bennett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rarick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rarick\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -174,10 +266,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HR/6/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HR/6/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-02",
@@ -188,7 +276,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HR/6?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HR/6?list=open&body=House",
       "note": ""
     }
   ],
@@ -200,6 +288,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

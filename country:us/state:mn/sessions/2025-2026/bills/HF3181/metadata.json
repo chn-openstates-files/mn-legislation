@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3181"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Human Services Finance and Policy",
@@ -35,6 +39,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
+      }
+    },
+    {
+      "description": "Author added Xiong",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Jones",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -78,6 +102,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Hanson, J.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Xiong",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Xiong\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jones\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -94,10 +134,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3181/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3181/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-10",
@@ -108,7 +144,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3181?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3181?list=open&body=House",
       "note": ""
     }
   ],
@@ -120,6 +156,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

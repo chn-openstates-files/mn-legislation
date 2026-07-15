@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3693"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Agriculture Finance and Policy",
@@ -24,6 +28,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Frederick",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -59,6 +73,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Hansen, R.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Frederick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frederick\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -75,10 +97,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3693/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3693/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-24",
@@ -89,7 +107,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3693?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3693?list=open&body=House",
       "note": ""
     }
   ],
@@ -101,6 +119,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

@@ -7,13 +7,16 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Corrections and Corrections Department",
     "Public Safety and Public Safety Department"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf3196"
+    }
+  ],
   "actions": [
     {
       "description": "Received from Senate",
@@ -251,6 +254,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
       }
+    },
+    {
+      "description": "Effective date 05/09/25",
+      "date": "2025-05-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -285,6 +298,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Novotny\"}",
       "organization_id": null
+    },
+    {
+      "name": "Hill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tabke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tabke\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -301,10 +330,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3196/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3196/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-31",
@@ -316,10 +341,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3196/versions/1/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3196/versions/1/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-22",
@@ -329,7 +350,7 @@
   "documents": [],
   "citations": [
     {
-      "publication": "Minnesota Session Laws - 2025, Regular Session",
+      "publication": "Minnesota Session Laws - 2025 Regular Session",
       "citation": "Chapter 19",
       "citation_type": "chapter",
       "effective": null,
@@ -347,7 +368,7 @@
   ],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3196?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3196?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -359,6 +380,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

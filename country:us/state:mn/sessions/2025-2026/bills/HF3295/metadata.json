@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3295"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Judiciary Finance and Civil Law",
@@ -36,6 +40,134 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:43Z"
       }
+    },
+    {
+      "description": "Committee report, to adopt and re-refer to Elections Finance and Government Operations",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "House rule 1.21, placed on Calendar for the Day 04/27/2026",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "House rule 1.21, placed on Calendar for the Day Thursday, May 7, 2026",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Amendments offered",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Third reading",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Bill was passed",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Received from House",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Introduction and first reading",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Referred to State and Local Government",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -54,6 +186,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Jacob\"}",
       "organization_id": null
+    },
+    {
+      "name": "Koran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Koran\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -70,13 +210,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3295/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3295/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-05-01",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3295/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-09",
       "classification": ""
     }
   ],
@@ -84,7 +231,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3295?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3295?list=open&body=House",
       "note": ""
     }
   ],
@@ -96,6 +243,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:43Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

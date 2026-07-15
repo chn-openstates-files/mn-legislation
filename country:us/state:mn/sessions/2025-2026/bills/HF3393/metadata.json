@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3393"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Workforce, Labor, and Economic Development Finance and Policy",
@@ -58,6 +62,50 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
       }
+    },
+    {
+      "description": "Author added Skraba",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Zeleznikar",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -84,6 +132,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Warwas\"}",
       "organization_id": null
+    },
+    {
+      "name": "Skraba",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Skraba\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zeleznikar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zeleznikar\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -100,10 +164,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3393/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3393/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-11",
@@ -115,13 +175,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3393/versions/1/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3393/versions/1/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-23",
+      "classification": ""
+    },
+    {
+      "note": "2nd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3393/versions/2/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-22",
       "classification": ""
     }
   ],
@@ -129,7 +196,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3393?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3393?list=open&body=House",
       "note": ""
     }
   ],
@@ -141,6 +208,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

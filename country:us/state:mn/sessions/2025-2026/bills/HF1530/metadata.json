@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf1530"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Capital Investment",
@@ -26,6 +30,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:44Z"
+      }
+    },
+    {
+      "description": "Author added Buck",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -45,6 +59,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Hemmingsen-Jaeger\"}",
       "organization_id": null
+    },
+    {
+      "name": "Buck",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Buck\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -61,10 +83,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1530/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1530/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-25",
@@ -75,7 +93,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1530?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1530?list=open&body=House",
       "note": ""
     }
   ],
@@ -87,6 +105,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:44Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

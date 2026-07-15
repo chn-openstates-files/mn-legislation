@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf2453"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Environment and Natural Resources Finance and Policy",
@@ -35,22 +39,24 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:21Z"
       }
+    },
+    {
+      "description": "Author stricken Heintzeman",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Heintzeman",
+      "name": "Fischer",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Heintzeman\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Fischer",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
       "person_id": "~{\"name\": \"Fischer\"}",
       "organization_id": null
     },
@@ -77,10 +83,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2453/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2453/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-17",
@@ -91,7 +93,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2453?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2453?list=open&body=House",
       "note": ""
     }
   ],
@@ -103,6 +105,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:21Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3540"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Veterans and Military Affairs Division",
@@ -48,6 +52,26 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:19Z"
       }
+    },
+    {
+      "description": "Author stricken Rehrauer",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author stricken Xiong",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -57,22 +81,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Bliss\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Xiong",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Xiong\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Rehrauer",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Rehrauer\"}",
       "organization_id": null
     }
   ],
@@ -90,10 +98,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3540/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3540/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-19",
@@ -105,10 +109,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3540/versions/1/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3540/versions/1/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-26",
@@ -119,7 +119,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3540?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3540?list=open&body=House",
       "note": ""
     }
   ],
@@ -131,6 +131,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:19Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

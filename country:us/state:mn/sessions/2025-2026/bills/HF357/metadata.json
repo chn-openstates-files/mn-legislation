@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf357"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Commerce Finance and Policy",
@@ -35,6 +39,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -78,10 +106,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/357/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/357/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-11",
@@ -92,7 +116,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/357?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/357?list=open&body=House",
       "note": ""
     }
   ],
@@ -104,6 +128,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

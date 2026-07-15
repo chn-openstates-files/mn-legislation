@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 1327",
-  "title": "Definition of all-terrain vehicle modified.",
+  "title": "All-terrain vehicle definition modified.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf1327"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Environment and Natural Resources Finance and Policy",
@@ -45,6 +49,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:45Z"
+      }
+    },
+    {
+      "description": "Author added Repinski",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Knudsen",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -96,6 +120,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Stephenson\"}",
       "organization_id": null
+    },
+    {
+      "name": "Repinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Repinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Knudsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Knudsen\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -112,10 +152,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1327/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1327/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-20",
@@ -126,7 +162,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1327?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1327?list=open&body=House",
       "note": ""
     }
   ],
@@ -138,6 +174,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:45Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

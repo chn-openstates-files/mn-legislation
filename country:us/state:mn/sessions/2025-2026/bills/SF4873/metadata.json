@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Crimes and Criminals",
+    "Public Safety and Public Safety Department"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -38,6 +41,16 @@
       "_processing": {
         "log_file_created": "2026-03-28T13:14:10Z"
       }
+    },
+    {
+      "description": "Authors added Hauschild; Pha",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,6 +60,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Gustafson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hauschild",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hauschild\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pha",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pha\"}",
       "organization_id": null
     }
   ],
@@ -64,10 +93,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4873/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4873/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-25",
@@ -78,7 +103,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4873?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4873?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -90,6 +115,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T13:14:10Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

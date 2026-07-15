@@ -14,7 +14,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf2255"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -99,23 +103,91 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
       }
+    },
+    {
+      "description": "Chief author stricken Kunesh",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Chief author added Marty",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author stricken Cwodzinski",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Chief author stricken, shown as co-author Marty",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Chief author added Cwodzinski",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Kunesh",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Kunesh",
+      "name": "Cwodzinski",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
+      "person_id": "~{\"name\": \"Cwodzinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kunesh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
       "person_id": "~{\"name\": \"Kunesh\"}",
       "organization_id": null
     },
     {
-      "name": "Cwodzinski",
+      "name": "Marty",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Cwodzinski\"}",
+      "person_id": "~{\"name\": \"Marty\"}",
       "organization_id": null
     }
   ],
@@ -133,10 +205,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2255/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2255/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-05",
@@ -148,10 +216,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2255/versions/1/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2255/versions/1/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-22",
@@ -163,10 +227,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2255/versions/2/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2255/versions/2/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-30",
@@ -177,7 +237,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2255?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2255?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -189,6 +249,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

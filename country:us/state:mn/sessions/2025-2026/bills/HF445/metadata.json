@@ -8,12 +8,15 @@
   ],
   "subject": [
     "Bonds",
-    "Cities and Towns-Specific",
     "Nonprofit and Charitable Organizations"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf445"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Capital Investment",
@@ -26,6 +29,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:45Z"
+      }
+    },
+    {
+      "description": "Author added Franson",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -45,6 +58,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Kozlowski\"}",
       "organization_id": null
+    },
+    {
+      "name": "Franson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Franson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -61,10 +82,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/445/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/445/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-11",
@@ -75,7 +92,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/445?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/445?list=open&body=House",
       "note": ""
     }
   ],
@@ -87,6 +104,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:45Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

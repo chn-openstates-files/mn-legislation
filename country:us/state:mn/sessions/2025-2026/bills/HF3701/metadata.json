@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3701"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Commerce Finance and Policy",
@@ -35,6 +39,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Author added Pursell",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Jones",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -94,6 +118,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Kraft\"}",
       "organization_id": null
+    },
+    {
+      "name": "Pursell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pursell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jones\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -110,10 +150,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3701/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3701/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-24",
@@ -124,7 +160,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3701?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3701?list=open&body=House",
       "note": ""
     }
   ],
@@ -136,6 +172,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

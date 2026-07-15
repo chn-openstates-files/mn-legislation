@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf4403"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -37,6 +41,16 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:21Z"
       }
+    },
+    {
+      "description": "Author added Port",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,9 +61,23 @@
       "primary": true,
       "person_id": "~{\"name\": \"Dibble\"}",
       "organization_id": null
+    },
+    {
+      "name": "Port",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Port\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HF 4199",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduction",
@@ -57,10 +85,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4403/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4403/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-11",
@@ -71,7 +95,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4403?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4403?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -83,6 +107,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:21Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

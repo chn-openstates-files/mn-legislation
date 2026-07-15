@@ -8,13 +8,16 @@
   ],
   "subject": [
     "Administration Department",
-    "Appropriations",
     "Bonds",
     "Buildings and Building Codes"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3478"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Capital Investment",
@@ -27,6 +30,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt and re-refer to Ways and Means",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -54,10 +69,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3478/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3478/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-19",
@@ -68,7 +79,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3478?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3478?list=open&body=House",
       "note": ""
     }
   ],
@@ -80,6 +91,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

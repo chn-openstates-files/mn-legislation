@@ -6,7 +6,11 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Disabilities and Access",
+    "Governmental Operations-Local",
+    "Veterans and Veterans Affairs Department"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -49,6 +53,26 @@
       "_processing": {
         "log_file_created": "2026-03-28T13:14:10Z"
       }
+    },
+    {
+      "description": "Author added Freiberg",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Sexton",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -67,6 +91,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Repinski\"}",
       "organization_id": null
+    },
+    {
+      "name": "Freiberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Freiberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sexton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sexton\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -83,10 +123,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4171/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4171/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-10",
@@ -97,7 +133,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4171?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4171?list=open&body=House",
       "note": ""
     }
   ],
@@ -109,6 +145,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T13:14:10Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

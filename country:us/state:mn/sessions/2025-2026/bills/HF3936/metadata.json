@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3936"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to State Government Finance and Policy",
@@ -36,6 +40,38 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Authors added Duran and Clardy",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Ways and Means",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Youakim",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -103,6 +139,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Kraft\"}",
       "organization_id": null
+    },
+    {
+      "name": "Duran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clardy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clardy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Youakim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Youakim\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -119,13 +179,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3936/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3936/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-03",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3936/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-23",
       "classification": ""
     }
   ],
@@ -133,7 +200,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3936?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3936?list=open&body=House",
       "note": ""
     }
   ],
@@ -145,6 +212,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

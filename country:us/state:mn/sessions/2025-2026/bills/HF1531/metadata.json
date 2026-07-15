@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf1531"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Environment and Natural Resources Finance and Policy",
@@ -60,6 +64,62 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Referred to Chief Clerk for comparison with SF1251",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Bills identical, SF substituted on General Register",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "HF indefinitely postponed",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -143,13 +203,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1531/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1531/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-25",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1531/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-16",
       "classification": ""
     }
   ],
@@ -157,7 +224,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1531?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1531?list=open&body=House",
       "note": ""
     }
   ],
@@ -169,6 +236,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

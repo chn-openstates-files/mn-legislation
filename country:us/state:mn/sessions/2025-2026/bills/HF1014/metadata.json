@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf1014"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Commerce Finance and Policy",
@@ -302,6 +306,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:43Z"
       }
+    },
+    {
+      "description": "Effective date 08/01/25",
+      "date": "2025-08-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -416,10 +430,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1014/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1014/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-14",
@@ -431,10 +441,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1014/versions/1/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1014/versions/1/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-25",
@@ -446,10 +452,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1014/versions/ue/1/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1014/versions/ue/1/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-23",
@@ -459,7 +461,7 @@
   "documents": [],
   "citations": [
     {
-      "publication": "Minnesota Session Laws - 2025, Regular Session",
+      "publication": "Minnesota Session Laws - 2025 Regular Session",
       "citation": "Chapter 14",
       "citation_type": "chapter",
       "effective": null,
@@ -477,7 +479,7 @@
   ],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1014?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1014?list=open&body=House",
       "note": ""
     }
   ],
@@ -489,6 +491,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:43Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

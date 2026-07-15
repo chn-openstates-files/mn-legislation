@@ -7,12 +7,15 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Education and Education Department"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf2544"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Education Policy",
@@ -35,6 +38,38 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
+      }
+    },
+    {
+      "description": "Author added Clardy",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Jordan",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Education Finance",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -62,6 +97,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rehrauer\"}",
       "organization_id": null
+    },
+    {
+      "name": "Clardy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clardy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jordan\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -78,13 +129,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2544/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2544/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-18",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2544/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-25",
       "classification": ""
     }
   ],
@@ -92,7 +150,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2544?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2544?list=open&body=House",
       "note": ""
     }
   ],
@@ -104,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

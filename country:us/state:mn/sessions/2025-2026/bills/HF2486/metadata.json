@@ -7,14 +7,17 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Bonds",
     "Children and Minors",
     "Human Services and Human Services Department"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf2486"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Capital Investment",
@@ -59,6 +62,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:45Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-05-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-05-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "House rule 1.21, placed on Calendar for the Day Sunday, May 17, 2026",
+      "date": "2026-05-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -110,13 +147,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2486/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2486/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-17",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2486/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-05-16",
       "classification": ""
     }
   ],
@@ -124,7 +168,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2486?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2486?list=open&body=House",
       "note": ""
     }
   ],
@@ -136,6 +180,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:45Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

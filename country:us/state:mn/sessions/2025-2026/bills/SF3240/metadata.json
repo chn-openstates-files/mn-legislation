@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf3240"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -36,6 +40,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:40Z"
+      }
+    },
+    {
+      "description": "Withdrawn and re-referred to Human Services",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -71,10 +85,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3240/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3240/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-02",
@@ -85,7 +95,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3240?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3240?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -97,6 +107,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:40Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

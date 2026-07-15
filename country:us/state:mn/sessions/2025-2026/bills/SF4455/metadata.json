@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Cities and Towns-Specific",
+    "Government-Local"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -15,6 +18,28 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received from Senate",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Senate file first reading, referred to Taxes",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
     {
       "description": "Introduction and first reading",
       "date": "2026-03-17",
@@ -73,6 +98,28 @@
       "_processing": {
         "log_file_created": "2026-03-28T13:14:09Z"
       }
+    },
+    {
+      "description": "Special Order: Amended",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Third reading Passed as amended",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -82,6 +129,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Drazkowski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Altendorf",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Altendorf\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jacob",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacob\"}",
       "organization_id": null
     }
   ],
@@ -99,10 +162,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4455/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4455/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-12",
@@ -114,13 +173,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4455/versions/1/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4455/versions/1/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "2nd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4455/versions/2/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-15",
       "classification": ""
     }
   ],
@@ -128,7 +194,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4455?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4455?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -140,6 +206,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T13:14:09Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

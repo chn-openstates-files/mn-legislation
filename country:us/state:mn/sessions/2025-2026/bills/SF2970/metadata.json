@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf2970"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -68,6 +72,16 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
       }
+    },
+    {
+      "description": "Author added Abeler",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -102,6 +116,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Carlson\"}",
       "organization_id": null
+    },
+    {
+      "name": "Abeler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Abeler\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -118,10 +140,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2970/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2970/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-21",
@@ -132,7 +150,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2970?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2970?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -144,6 +162,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

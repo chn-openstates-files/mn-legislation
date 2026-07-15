@@ -7,12 +7,15 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Health and Health Department"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3476"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Health Finance and Policy",
@@ -25,6 +28,46 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Authors added Hanson, J.; Sencer-Mura, Kozlowski, Feist, Keeler, and Berg",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Pursell",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Jones",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Johnson, P.",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -60,6 +103,78 @@
       "primary": false,
       "person_id": "~{\"name\": \"Koegel\"}",
       "organization_id": null
+    },
+    {
+      "name": "Hanson, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hanson, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sencer-Mura",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sencer-Mura\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kozlowski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kozlowski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Feist",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Feist\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Keeler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Keeler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Berg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Berg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pursell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pursell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson, P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson, P.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -76,10 +191,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3476/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3476/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-19",
@@ -90,7 +201,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3476?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3476?list=open&body=House",
       "note": ""
     }
   ],
@@ -102,6 +213,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

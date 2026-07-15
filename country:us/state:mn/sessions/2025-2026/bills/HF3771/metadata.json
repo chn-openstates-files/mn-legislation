@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3771"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Public Safety Finance and Policy",
@@ -25,6 +29,62 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Referred to Chief Clerk for comparison with SF3958",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Bills identical, SF substituted on General Register",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "HF indefinitely postponed",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -52,10 +112,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3771/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3771/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-26",
@@ -66,7 +122,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3771?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3771?list=open&body=House",
       "note": ""
     }
   ],
@@ -78,6 +134,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:21Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

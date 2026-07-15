@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 3093",
-  "title": "Responsible contractor requirements to recipients of state loans and grants over $50,000 applied.",
+  "title": "Minimum eligibility criteria enhanced for state grants, and sworn certification of compliance required.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3093"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to State Government Finance and Policy",
@@ -46,6 +50,38 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:21Z"
       }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Ways and Means",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Kotyza-Witthuhn",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Bierman",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,6 +108,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Gottfried\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kotyza-Witthuhn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kotyza-Witthuhn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bierman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bierman\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -88,13 +140,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3093/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3093/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-02",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3093/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-07",
       "classification": ""
     }
   ],
@@ -102,7 +161,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3093?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3093?list=open&body=House",
       "note": ""
     }
   ],
@@ -114,6 +173,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:21Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

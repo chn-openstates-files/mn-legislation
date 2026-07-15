@@ -6,7 +6,11 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Counties-Specific",
+    "Easements and Conveyances",
+    "Natural Resources Department"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -27,6 +31,16 @@
       "_processing": {
         "log_file_created": "2026-03-28T13:14:10Z"
       }
+    },
+    {
+      "description": "Author added Davis",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -37,9 +51,23 @@
       "primary": true,
       "person_id": "~{\"name\": \"Heintzeman\"}",
       "organization_id": null
+    },
+    {
+      "name": "Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Davis\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "SF 5068",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduction",
@@ -47,10 +75,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4787/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4787/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-26",
@@ -61,7 +85,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4787?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4787?list=open&body=House",
       "note": ""
     }
   ],
@@ -73,6 +97,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T13:14:10Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

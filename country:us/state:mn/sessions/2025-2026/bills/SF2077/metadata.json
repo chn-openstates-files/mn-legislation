@@ -1,20 +1,23 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 2077",
-  "title": "Omnibus Environment and Natural Resources appropriations",
+  "title": "Omnibus Outdoor Heritage Fund, Legacy and Lands bill",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "Appropriations-Omnibus Bills",
-    "Environment",
     "Natural Resources and Natural Resources Department",
     "Omnibus"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf2077"
+    }
+  ],
   "actions": [
     {
       "description": "Received from Senate",
@@ -109,7 +112,7 @@
     {
       "description": "Senate conferees Hawj; Kunesh; Johnson Stewart; Green; McEwen",
       "date": "2025-05-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -134,6 +137,132 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:43Z"
+      }
+    },
+    {
+      "description": "Senate refuses to concur, conference committee of 3 requested",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Senate conferees Hawj, Putnam, and Lang",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "House accedes, conference committee of 4 to be appointed",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "House conferees Heintzeman, McDonald, Vang, and Fischer",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Senate adopted conference committee report, bill repassed",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Conference committee report, delete everything",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "House adopted conference committee report",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Third reading as amended by Conference",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Bill was repassed as amended by Conference",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Presented to Governor 05/20/2026",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Governor approval 05/27/2026",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Secretary of State, Filed 05/27/2026",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     },
     {
@@ -258,6 +387,118 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:43Z"
       }
+    },
+    {
+      "description": "Taken from table",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "New conference committee of 3 requested",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Senate conferees Hawj; Putnam; Lang",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "House conferees Heintzeman; McDonald; Vang; Fischer",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Conference committee report, delete everything",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Senate adopted CC report and repassed bill",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Third Reading Repassed",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "House adopted SCC report and repassed bill",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Presentment date 05/20/26",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Governor's action Approval 05/27/26",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Secretary of State Chapter 126 05/27/26",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -300,10 +541,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2077/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2077/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-27",
@@ -315,10 +552,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2077/versions/1/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2077/versions/1/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-22",
@@ -330,13 +563,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2077/versions/2/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2077/versions/2/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-28",
+      "classification": ""
+    },
+    {
+      "note": "3rd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2077/versions/3/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-05-19",
       "classification": ""
     },
     {
@@ -345,21 +585,133 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2077/versions/ue/1/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2077/versions/ue/1/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-05-01",
       "classification": ""
+    },
+    {
+      "note": "CCR-SF2077",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2077/versions/ccr/0/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-05-17",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Minnesota Session Laws - 2026 Regular Session",
+      "citation": "Chapter 126",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97A.056 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 97A.056",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    },
+    {
+      "publication": "Laws 2024",
+      "citation": "chapter 106 article 1 section 2 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 85.536 subdivision 5",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 85.536 subdivision 7",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 85.536 subdivision 8",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 85.536 subdivision 10",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    },
+    {
+      "publication": "Laws 2023",
+      "citation": "chapter 40 article 4 section 2 subdivision 6 as amended by Laws 2025 chapter 36 article 4 section 15",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.0272 subdivision 1",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.0272 subdivision 2",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    },
+    {
+      "publication": "Minnesota Statutes 2024",
+      "citation": "section 84.96",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    },
+    {
+      "publication": "Laws 2024",
+      "citation": "chapter 90 article 1 section 52",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/126/"
+    }
+  ],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2077?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2077?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -371,6 +723,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:43Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

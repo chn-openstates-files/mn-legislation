@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3127"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Taxes",
@@ -44,6 +48,76 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Authors added Roach and Bakeberg",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Motion to suspend rules",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Motion did not prevail 90 votes needed for suspension of rules",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Franson",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Myers",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Repinski",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Authors added Perryman, Gander, Schwartz, and Knudsen",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -87,6 +161,78 @@
       "primary": false,
       "person_id": "~{\"name\": \"Robbins\"}",
       "organization_id": null
+    },
+    {
+      "name": "Roach",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roach\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bakeberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bakeberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Franson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Myers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Myers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Repinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Repinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Perryman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Perryman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schwartz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Schwartz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Knudsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Knudsen\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -103,10 +249,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3127/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3127/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-04",
@@ -117,7 +259,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3127?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3127?list=open&body=House",
       "note": ""
     }
   ],
@@ -129,6 +271,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

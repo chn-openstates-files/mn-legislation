@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf4114"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Education Finance",
@@ -25,6 +29,88 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
       }
+    },
+    {
+      "description": "Author added Knudsen",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Hicks",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Authors added Bennett, Mueller, Gander, and Duran",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Authors added Repinski, Witte, and Myers",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Authors added Koznick and Hill",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt and re-refer to Ways and Means",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Joint rule 2.03, Deadlines, re-referred to Rules and Legislative Administration",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Authors added Dotseth, Sencer-Mura, Virnig, Greene, and Rehm",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -34,6 +120,134 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Bakeberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Knudsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Knudsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hicks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hicks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bennett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bennett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mueller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mueller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Duran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Repinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Repinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Witte",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Witte\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Myers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Myers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Koznick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Koznick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dotseth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dotseth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sencer-Mura",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sencer-Mura\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Virnig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Virnig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greene",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greene\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rehm",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rehm\"}",
       "organization_id": null
     }
   ],
@@ -51,10 +265,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4114/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4114/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-06",
@@ -65,7 +275,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4114?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4114?list=open&body=House",
       "note": ""
     }
   ],
@@ -77,6 +287,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3844"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Transportation Finance and Policy",
@@ -27,6 +31,72 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:21Z"
       }
+    },
+    {
+      "description": "Committee report, to adopt",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Referred to Chief Clerk for comparison with SF3637",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Bills identical, SF substituted on General Register",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "HF indefinitely postponed",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Gander",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -36,6 +106,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Joy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gander\"}",
       "organization_id": null
     }
   ],
@@ -53,10 +131,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3844/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3844/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-27",
@@ -67,7 +141,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3844?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3844?list=open&body=House",
       "note": ""
     }
   ],
@@ -79,6 +153,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:21Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

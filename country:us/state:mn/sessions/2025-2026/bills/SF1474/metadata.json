@@ -1,19 +1,22 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 1474",
-  "title": "Public high schools requirement to participate in the direct admissions program",
+  "title": "Public high schools requirement to participate in the direct admissions program unless granted an exemption and appropriation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Education and Education Department",
     "Education-Higher",
     "Education-Pre-Kindergarten-12"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf1474"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -60,6 +63,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Finance",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -119,13 +135,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1474/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1474/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-13",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1474/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-17",
       "classification": ""
     }
   ],
@@ -133,7 +156,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1474?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1474?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -145,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

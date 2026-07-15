@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf391"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Judiciary Finance and Civil Law",
@@ -36,6 +40,28 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:21Z"
       }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Judiciary Finance and Civil Law",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Moller",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -54,6 +80,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Rarick\"}",
       "organization_id": null
+    },
+    {
+      "name": "Moller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Moller\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -70,13 +104,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/391/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/391/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-11",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/391/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-16",
       "classification": ""
     }
   ],
@@ -84,7 +125,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/391?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/391?list=open&body=House",
       "note": ""
     }
   ],
@@ -96,6 +137,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:21Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

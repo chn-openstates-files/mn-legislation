@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf4361"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -38,6 +42,30 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
       }
+    },
+    {
+      "description": "Comm report: To pass",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -58,7 +86,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HF 4264",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduction",
@@ -66,10 +100,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4361/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4361/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-10",
@@ -80,7 +110,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4361?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4361?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -92,6 +122,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

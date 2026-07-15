@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3793"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Environment and Natural Resources Finance and Policy",
@@ -36,6 +40,26 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
       }
+    },
+    {
+      "description": "Authors added Repinski; Rehrauer; Curran; Xiong; Jordan; and Lee, F.",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Jones",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -54,6 +78,62 @@
       "primary": false,
       "person_id": "~{\"name\": \"Kozlowski\"}",
       "organization_id": null
+    },
+    {
+      "name": "Repinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Repinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rehrauer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rehrauer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Curran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Curran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Xiong",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Xiong\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jordan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lee, F.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lee, F.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jones\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -70,10 +150,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3793/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3793/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-26",
@@ -84,7 +160,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3793?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3793?list=open&body=House",
       "note": ""
     }
   ],
@@ -96,6 +172,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

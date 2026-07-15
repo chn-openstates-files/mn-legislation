@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf4073"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Taxes",
@@ -26,6 +30,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:21Z"
+      }
+    },
+    {
+      "description": "Author added Xiong",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -61,9 +75,23 @@
       "primary": false,
       "person_id": "~{\"name\": \"Frederick\"}",
       "organization_id": null
+    },
+    {
+      "name": "Xiong",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Xiong\"}",
+      "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "SF 4443",
+      "legislative_session": "2025-2026",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduction",
@@ -71,10 +99,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4073/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4073/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-06",
@@ -85,7 +109,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4073?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4073?list=open&body=House",
       "note": ""
     }
   ],
@@ -97,6 +121,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:21Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

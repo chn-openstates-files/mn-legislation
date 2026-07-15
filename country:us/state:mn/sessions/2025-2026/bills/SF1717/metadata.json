@@ -1,17 +1,22 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 1717",
-  "title": "YouLead2025 appropriation",
+  "title": "Working group establishment to develop recommendations for a Melissa and Mark Hortman state park in the Capitol Area",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Nonprofit and Charitable Organizations"
+    "Government-State",
+    "Parks and Trails"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf1717"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -35,6 +40,49 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Rules and Administration",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Pursuant to Senate Concurrent Resolution No. 6, referred to Rules and Administration",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Senate Concurrent Resolution 6 Suspended amend previous committee report",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Re-referred to Finance",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -78,13 +126,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1717/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1717/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-19",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1717/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-27",
       "classification": ""
     }
   ],
@@ -92,7 +147,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1717?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1717?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -104,6 +159,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

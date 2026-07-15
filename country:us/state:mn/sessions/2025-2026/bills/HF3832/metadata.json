@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3832"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Health Finance and Policy",
@@ -25,6 +29,100 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "House rule 1.21, placed on Calendar for the Day 04/27/2026",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Third reading",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Bill was passed",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Received from House",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Introduction and first reading",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Referred to Health and Human Services",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -44,6 +142,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Carroll\"}",
       "organization_id": null
+    },
+    {
+      "name": "Mann",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mann\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -60,10 +166,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3832/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3832/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-27",
@@ -74,7 +176,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3832?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3832?list=open&body=House",
       "note": ""
     }
   ],
@@ -86,6 +188,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

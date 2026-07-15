@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Commerce and Commerce Department",
+    "Pets"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -38,6 +41,26 @@
       "_processing": {
         "log_file_created": "2026-03-28T13:14:10Z"
       }
+    },
+    {
+      "description": "Author added Cwodzinski",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Frentz",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -47,6 +70,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Housley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cwodzinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cwodzinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frentz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frentz\"}",
       "organization_id": null
     }
   ],
@@ -64,10 +103,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4928/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4928/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-25",
@@ -78,7 +113,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4928?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4928?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -90,6 +125,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T13:14:10Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

@@ -7,13 +7,16 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Commerce and Commerce Department",
     "Energy"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf2900"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -48,6 +51,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:45Z"
       }
+    },
+    {
+      "description": "Author stricken Mitchell",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Hemmingsen-Jaeger",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -68,11 +91,11 @@
       "organization_id": null
     },
     {
-      "name": "Mitchell",
+      "name": "Hemmingsen-Jaeger",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"name\": \"Mitchell\"}",
+      "person_id": "~{\"name\": \"Hemmingsen-Jaeger\"}",
       "organization_id": null
     }
   ],
@@ -90,10 +113,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2900/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2900/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-20",
@@ -104,7 +123,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2900?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2900?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -116,6 +135,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:45Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

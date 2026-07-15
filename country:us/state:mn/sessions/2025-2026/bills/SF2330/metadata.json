@@ -1,19 +1,22 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 2330",
-  "title": "College Possible grant appropriation to support programs of college admission and graduation for low-income students",
+  "title": "Student persistence grant program establishment and appropriation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Education and Education Department",
     "Education-Higher"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf2330"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -37,6 +40,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:40Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Finance",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -64,13 +80,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2330/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2330/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-06",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2330/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-26",
       "classification": ""
     }
   ],
@@ -78,7 +101,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2330?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2330?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -90,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:40Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

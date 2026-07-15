@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 3650",
-  "title": "Prohibit manufacturers from advertising prescription drugs on television",
+  "title": "Manufacturers prohibited from advertising prescription drugs on television",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf3650"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -71,6 +75,39 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
       }
+    },
+    {
+      "description": "Author added Maye Quade",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to Commerce and Consumer Protection",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Marty",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,6 +134,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Boldon\"}",
       "organization_id": null
+    },
+    {
+      "name": "Maye Quade",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maye Quade\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marty",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marty\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -113,10 +166,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3650/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3650/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-17",
@@ -128,13 +177,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3650/versions/1/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3650/versions/1/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "2nd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3650/versions/2/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-07",
       "classification": ""
     }
   ],
@@ -142,7 +198,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3650?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3650?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -154,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

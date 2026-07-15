@@ -7,14 +7,17 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "Firearms and Dangerous Weapons",
     "Law Enforcement",
     "Public Safety Department"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf2742"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Public Safety Finance and Policy",
@@ -47,6 +50,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:42Z"
+      }
+    },
+    {
+      "description": "Author added Curran",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -82,6 +95,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Freiberg\"}",
       "organization_id": null
+    },
+    {
+      "name": "Curran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Curran\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -98,10 +119,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2742/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2742/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-24",
@@ -112,7 +129,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2742?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2742?list=open&body=House",
       "note": ""
     }
   ],
@@ -124,6 +141,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:42Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

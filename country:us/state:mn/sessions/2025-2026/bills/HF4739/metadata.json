@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Appropriations",
+    "Energy"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -26,6 +29,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-28T13:14:09Z"
+      }
+    },
+    {
+      "description": "Author added Agbaje",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -53,6 +66,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Kraft\"}",
       "organization_id": null
+    },
+    {
+      "name": "Agbaje",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Agbaje\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -69,10 +90,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4739/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4739/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-26",
@@ -83,7 +100,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4739?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4739?list=open&body=House",
       "note": ""
     }
   ],
@@ -95,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T13:14:09Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

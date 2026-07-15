@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf1724"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Commerce Finance and Policy",
@@ -25,6 +29,82 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:40Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Health Finance and Policy",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Koznick",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Zeleznikar",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Authors added Engen and Van Binsbergen",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Repinski",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -44,6 +124,46 @@
       "primary": false,
       "person_id": "~{\"name\": \"McDonald\"}",
       "organization_id": null
+    },
+    {
+      "name": "Koznick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Koznick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zeleznikar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zeleznikar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Engen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Engen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Van Binsbergen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Van Binsbergen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Repinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Repinski\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -60,13 +180,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1724/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1724/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-27",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1724/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-25",
       "classification": ""
     }
   ],
@@ -74,7 +201,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1724?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1724?list=open&body=House",
       "note": ""
     }
   ],
@@ -86,6 +213,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:40Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf2380"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Judiciary Finance and Civil Law",
@@ -100,6 +104,68 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
       }
+    },
+    {
+      "description": "Authors added Repinski, Reyer, and Xiong",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Referred to Chief Clerk for comparison with SF3210",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Bills not identical, SF substituted on General Register",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "HF indefinitely postponed",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author stricken Allen",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author stricken Davids",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -133,14 +199,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Hanson, J.\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Allen",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Allen\"}",
       "organization_id": null
     },
     {
@@ -205,14 +263,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Gander\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Davids",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Davids\"}",
       "organization_id": null
     },
     {
@@ -286,6 +336,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Fischer\"}",
       "organization_id": null
+    },
+    {
+      "name": "Repinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Repinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Reyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Xiong",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Xiong\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -302,10 +376,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2380/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2380/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-14",
@@ -317,10 +387,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2380/versions/1/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2380/versions/1/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-09",
@@ -331,7 +397,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2380?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2380?list=open&body=House",
       "note": ""
     }
   ],
@@ -343,6 +409,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

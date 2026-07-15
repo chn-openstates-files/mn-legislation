@@ -1,12 +1,15 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 4466",
-  "title": "Health; reporting requirement eliminated.",
+  "title": "Health and human services finance and policy bill.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Appropriations",
+    "Health and Health Department"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -26,6 +29,74 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-28T13:14:09Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended and re-refer to Ways and Means",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Referred to Chief Clerk for comparison with SF4612",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Bills not identical, SF substituted on General Register",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "HF indefinitely postponed",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -53,13 +124,31 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4466/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4466/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-18",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4466/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-20",
+      "classification": ""
+    },
+    {
+      "note": "2nd Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4466/versions/2/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-05-04",
       "classification": ""
     }
   ],
@@ -67,7 +156,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4466?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4466?list=open&body=House",
       "note": ""
     }
   ],
@@ -79,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T13:14:09Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

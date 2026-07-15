@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf744"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Education Policy",
@@ -55,14 +59,32 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:44Z"
       }
+    },
+    {
+      "description": "Author added Torkelson as Chief Author",
+      "date": "2026-05-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Clardy",
+      "name": "Torkelson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
+      "person_id": "~{\"name\": \"Torkelson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clardy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
       "person_id": "~{\"name\": \"Clardy\"}",
       "organization_id": null
     },
@@ -129,10 +151,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/744/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/744/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-12",
@@ -143,7 +161,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/744?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/744?list=open&body=House",
       "note": ""
     }
   ],
@@ -155,6 +173,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:44Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

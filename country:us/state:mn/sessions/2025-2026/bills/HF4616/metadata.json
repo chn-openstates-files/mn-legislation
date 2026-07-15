@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Taxation",
+    "Taxation-Property"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -36,6 +39,36 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-28T13:14:10Z"
+      }
+    },
+    {
+      "description": "Author added Rehrauer",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Jones",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Johnson, P.",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -151,6 +184,30 @@
       "primary": false,
       "person_id": "~{\"name\": \"Pursell\"}",
       "organization_id": null
+    },
+    {
+      "name": "Rehrauer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rehrauer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson, P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson, P.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -161,10 +218,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4616/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4616/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-24",
@@ -175,7 +228,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4616?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4616?list=open&body=House",
       "note": ""
     }
   ],
@@ -187,6 +240,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T13:14:10Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

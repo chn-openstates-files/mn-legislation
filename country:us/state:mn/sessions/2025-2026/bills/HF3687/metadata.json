@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3687"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Human Services Finance and Policy",
@@ -65,6 +69,46 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Authors added Baker and Curran",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Gander",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Motion to recall and re-refer, motion prevailed Health Finance and Policy",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Dippel",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -188,6 +232,38 @@
       "primary": false,
       "person_id": "~{\"name\": \"Myers\"}",
       "organization_id": null
+    },
+    {
+      "name": "Baker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Baker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Curran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Curran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dippel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dippel\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -204,10 +280,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3687/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3687/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-02-24",
@@ -218,7 +290,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3687?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3687?list=open&body=House",
       "note": ""
     }
   ],
@@ -230,6 +302,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

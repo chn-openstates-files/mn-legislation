@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SF 4406",
-  "title": "Prohibit certain exclusions in homeowner's insurance policies when damage is done by a peace officer",
+  "title": "Certain exclusions in homeowner's insurance policies prohibited when damage is done by a peace officer",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf4406"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -36,6 +40,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Rule 45-amend, subst. General Orders HF4133, SF indefinitely postponed",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -71,13 +109,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4406/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4406/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-11",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4406/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-07",
       "classification": ""
     }
   ],
@@ -85,7 +130,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4406?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4406?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -97,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf2143"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -36,6 +40,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:43Z"
+      }
+    },
+    {
+      "description": "Author stricken Green",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Gustafson",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -65,19 +89,19 @@
       "organization_id": null
     },
     {
-      "name": "Green",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Green\"}",
-      "organization_id": null
-    },
-    {
       "name": "Gruenhagen",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Gruenhagen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gustafson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gustafson\"}",
       "organization_id": null
     }
   ],
@@ -95,10 +119,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2143/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2143/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-28",
@@ -109,7 +129,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2143?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2143?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -121,6 +141,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:43Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

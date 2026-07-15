@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf2377"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Education Policy",
@@ -45,6 +49,16 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
       }
+    },
+    {
+      "description": "Author added Youakim",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +85,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Virnig\"}",
       "organization_id": null
+    },
+    {
+      "name": "Youakim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Youakim\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -87,10 +109,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2377/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2377/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-14",
@@ -101,7 +119,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2377?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2377?list=open&body=House",
       "note": ""
     }
   ],
@@ -113,6 +131,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

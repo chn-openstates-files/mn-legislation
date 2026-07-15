@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf3280"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -37,6 +41,29 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:44Z"
+      }
+    },
+    {
+      "description": "Comm report: To pass as amended and re-refer to State and Local Government",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Pursuant to Senate Concurrent Resolution No. 6, referred to Rules and Administration",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -64,10 +91,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3280/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3280/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-02",
@@ -78,7 +101,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3280?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3280?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -90,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:44Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

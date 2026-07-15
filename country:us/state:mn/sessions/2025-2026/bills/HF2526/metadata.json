@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HF 2526",
-  "title": "Exceptions to prohibition against gifts to local officials expanded.",
+  "title": "Exceptions expanded to prohibition against gifts to local officials, and penalties provided for using a gift to influence a decision of a public safety officer.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf2526"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Elections Finance and Government Operations",
@@ -34,6 +38,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
+      }
+    },
+    {
+      "description": "Committee report, to adopt as amended",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Second reading",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
       }
     }
   ],
@@ -63,13 +91,20 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2526/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2526/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-18",
+      "classification": ""
+    },
+    {
+      "note": "1st Engrossment",
+      "links": [
+        {
+          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2526/versions/1/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-03-25",
       "classification": ""
     }
   ],
@@ -77,7 +112,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2526?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2526?list=open&body=House",
       "note": ""
     }
   ],
@@ -89,6 +124,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }

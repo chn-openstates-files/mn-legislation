@@ -14,7 +14,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf1529"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -38,6 +42,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
+      }
+    },
+    {
+      "description": "Author added Heintzeman",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -65,6 +79,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Lucero\"}",
       "organization_id": null
+    },
+    {
+      "name": "Heintzeman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Heintzeman\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -81,10 +103,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1529/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1529/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-14",
@@ -95,7 +113,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1529?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1529?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -107,6 +125,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

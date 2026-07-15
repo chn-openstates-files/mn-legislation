@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf2685"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Education Policy",
@@ -25,6 +29,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:43Z"
+      }
+    },
+    {
+      "description": "Motion to suspend rules",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Motion did not prevail 90 votes required to suspend rules",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -124,10 +148,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2685/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2685/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-03-24",
@@ -138,7 +158,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2685?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2685?list=open&body=House",
       "note": ""
     }
   ],
@@ -150,6 +170,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:43Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

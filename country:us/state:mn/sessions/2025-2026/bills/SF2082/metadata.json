@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf2082"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -85,14 +89,42 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:41Z"
       }
+    },
+    {
+      "description": "Chief author stricken, shown as co-author Dibble",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Chief author added Rest",
+      "date": "2026-05-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Dibble",
+      "name": "Rest",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
+      "person_id": "~{\"name\": \"Rest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dibble",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
       "person_id": "~{\"name\": \"Dibble\"}",
       "organization_id": null
     },
@@ -119,10 +151,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2082/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2082/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-27",
@@ -134,10 +162,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2082/versions/1/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2082/versions/1/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-22",
@@ -149,10 +173,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2082/versions/2/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2082/versions/2/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-28",
@@ -163,7 +183,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2082?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2082?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -175,6 +195,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:41Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

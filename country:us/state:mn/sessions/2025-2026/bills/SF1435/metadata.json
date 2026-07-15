@@ -13,7 +13,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-sf1435"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading",
@@ -37,6 +41,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T09:57:44Z"
+      }
+    },
+    {
+      "description": "Author added Frentz",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Klein",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
       }
     }
   ],
@@ -64,6 +88,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Weber\"}",
       "organization_id": null
+    },
+    {
+      "name": "Frentz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frentz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Klein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Klein\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -74,10 +114,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1435/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1435/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-13",
@@ -88,7 +124,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1435?body=Senate",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1435?list=open&body=Senate",
       "note": ""
     }
   ],
@@ -100,6 +136,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:44Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

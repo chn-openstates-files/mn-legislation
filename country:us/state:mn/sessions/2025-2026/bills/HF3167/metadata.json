@@ -7,12 +7,15 @@
     "bill"
   ],
   "subject": [
-    "Appropriations",
     "University of Minnesota"
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf3167"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to Workforce, Labor, and Economic Development Finance and Policy",
@@ -26,6 +29,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T09:57:43Z"
       }
+    },
+    {
+      "description": "Author added Hussein",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -35,6 +48,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Zeleznikar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hussein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hussein\"}",
       "organization_id": null
     }
   ],
@@ -52,10 +73,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3167/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3167/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-04-10",
@@ -66,7 +83,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3167?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3167?list=open&body=House",
       "note": ""
     }
   ],
@@ -78,6 +95,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T09:57:43Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

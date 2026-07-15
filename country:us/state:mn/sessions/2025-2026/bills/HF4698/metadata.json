@@ -6,7 +6,10 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Appropriations",
+    "Education-Higher"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -27,6 +30,26 @@
       "_processing": {
         "log_file_created": "2026-03-28T13:14:10Z"
       }
+    },
+    {
+      "description": "Authors added Norris, Rehrauer, Tabke, and Hill",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Wolgamott",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -45,6 +68,46 @@
       "primary": false,
       "person_id": "~{\"name\": \"Robbins\"}",
       "organization_id": null
+    },
+    {
+      "name": "Norris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Norris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rehrauer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rehrauer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tabke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tabke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wolgamott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wolgamott\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -55,10 +118,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4698/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4698/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-25",
@@ -69,7 +128,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4698?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4698?list=open&body=House",
       "note": ""
     }
   ],
@@ -81,6 +140,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T13:14:10Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mn-2025_2026-hf1338"
+    }
+  ],
   "actions": [
     {
       "description": "Introduction and first reading, referred to State Government Finance and Policy",
@@ -65,6 +69,26 @@
       "_processing": {
         "log_file_created": "2026-03-12T13:21:20Z"
       }
+    },
+    {
+      "description": "Author added Johnson, P.",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
+    },
+    {
+      "description": "Author added Anderson, P. E. as second author",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -74,6 +98,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Norris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anderson, P. E.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anderson, P. E.\"}",
       "organization_id": null
     },
     {
@@ -115,6 +147,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Elkins\"}",
       "organization_id": null
+    },
+    {
+      "name": "Johnson, P.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnson, P.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [
@@ -131,10 +171,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1338/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1338/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2025-02-21",
@@ -145,7 +181,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1338?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1338?list=open&body=House",
       "note": ""
     }
   ],
@@ -157,6 +193,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-12T13:21:20Z"
+    "logs_latest_update": "2026-07-15T14:01:17Z"
   }
 }

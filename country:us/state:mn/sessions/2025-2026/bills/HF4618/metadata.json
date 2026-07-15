@@ -6,7 +6,9 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Insurance-Health"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -27,6 +29,26 @@
       "_processing": {
         "log_file_created": "2026-03-28T13:14:09Z"
       }
+    },
+    {
+      "description": "Author added Kraft",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
+    },
+    {
+      "description": "Author added Finke",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -36,6 +58,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Mahamoud\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kraft",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kraft\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Finke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Finke\"}",
       "organization_id": null
     }
   ],
@@ -53,10 +91,6 @@
         {
           "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4618/versions/0/",
           "media_type": "text/html"
-        },
-        {
-          "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4618/versions/0/pdf/",
-          "media_type": "application/pdf"
         }
       ],
       "date": "2026-03-24",
@@ -67,7 +101,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4618?body=House",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4618?list=open&body=House",
       "note": ""
     }
   ],
@@ -79,6 +113,6 @@
     "division_id": "ocd-division/country:us/state:mn"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T13:14:09Z"
+    "logs_latest_update": "2026-07-15T14:01:16Z"
   }
 }
